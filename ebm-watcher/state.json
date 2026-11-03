@@ -1,6 +1,8 @@
 {
   "alive": "2026-10-31",
-  "no_offers_notice": true,
-  "offers": {},
-  "text_hash": "3ce54bd74dee1ce1"
+  "no_offers_notice": false,
+  "offers": {
+    "https://ebm-muenchen.de/mietangebote/wohnungen/detail?tx_immoverwaltung_mieteinheit%5Baction%5D=index&tx_immoverwaltung_mieteinheit%5Bcontroller%5D=Mieteinheit&tx_immoverwaltung_mieteinheit%5Bmieteinheit%5D=65807&cHash=395b6969d88f854d06cd34c9cf882da1": "2-Zimmer-Wohnung in Neuhausen zum 16.12.2026 zu vermieten Erdgeschoss 50,66 m² Schlörstr. 21 B 80634"
+  },
+  "text_hash": "b4b886ec24f1d8f5"
 }
