@@ -1,6 +1,8 @@
 {
   "alive": "2026-10-31",
-  "no_offers_notice": true,
-  "offers": {},
-  "text_hash": "3ce54bd74dee1ce1"
+  "no_offers_notice": false,
+  "offers": {
+    "https://ebm-muenchen.de/mietangebote/wohnungen/detail?tx_immoverwaltung_mieteinheit%5Baction%5D=index&tx_immoverwaltung_mieteinheit%5Bcontroller%5D=Mieteinheit&tx_immoverwaltung_mieteinheit%5Bmieteinheit%5D=65809&cHash=8a82b7c585cd5a097611f33b4cb9adb1": "1-Zimmer-Wohnung mit Balkon in Neuhausen zum 16.12.2026 zu vermieten 1. Stock 40,69 m² Schlörstr. 27 E 80634"
+  },
+  "text_hash": "796e331ee4de3310"
 }
