@@ -1,8 +1,6 @@
 {
   "alive": "2026-10-31",
-  "no_offers_notice": false,
-  "offers": {
-    "https://ebm-muenchen.de/mietangebote/wohnungen/detail?tx_immoverwaltung_mieteinheit%5Baction%5D=index&tx_immoverwaltung_mieteinheit%5Bcontroller%5D=Mieteinheit&tx_immoverwaltung_mieteinheit%5Bmieteinheit%5D=65813&cHash=0b7af96ba46f5cc27c4c5ad1a5df86e9": "Geräumige 2-Zimmer-Wohnung in Berg-am-Laim, Streitfeldstr. 2 4L zum 16.02.2027 zu vermieten! 4. Stock 63,74 m² Streitfeldstr. 2 81673"
-  },
-  "text_hash": "1fa467f622b2bfc4"
+  "no_offers_notice": true,
+  "offers": {},
+  "text_hash": "3ce54bd74dee1ce1"
 }
